@@ -17,3 +17,5 @@ Cleaning and merging of data in **Excel** then Used **SQL** to find insights, im
 - No of companies which got invesments and their list
 - how many Total funding amount has been raised by the investors 
 - top 10 investors by amount
+
+Tableau Dashboard Link : https://public.tableau.com/app/profile/rohit.gorle/viz/Investorsandinvesments/Dashboard1?publish=yes
